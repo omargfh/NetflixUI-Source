@@ -1,0 +1,61 @@
+﻿[
+  {
+    "id": 0,
+    "name": "Skyscraper",
+    "filename": "skyscraper",
+    "year": "2018",
+    "rate": "13+",
+    "runningtime": "1h 42m",
+    "isHD": true,
+    "is4K": false,
+    "isPreview": true,
+    "category": "movie",
+    "seasons": null,
+    "episodes": null,
+    "isNew": true,
+    "isNewEpisodes": null,
+    "isFavorite": false,
+    "description": "When terrorists attack the tallest building in the world, asecurity consultant will do anything to save his family from the carnage.",
+    "cast": [
+      "Dwyane Johnson",
+      "Neve Campbell",
+      "Chin Han"
+    ],
+    "genres": [
+      "Action & Adventure",
+      "Action Thrillers"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "13 Reasons Why",
+    "filename": "13reasonswhy",
+    "year": "2020",
+    "rate": "18+",
+    "runningtime": null,
+    "isHD": true,
+    "is4K": true,
+    "isPreview": false,
+    "category": "show",
+    "seasons": 4,
+    "episodes": [
+      13,
+      13,
+      13,
+      10
+    ],
+    "isNew": false,
+    "isNewEpisodes": false,
+    "isFavorite": true,
+    "description": "As the school gears up for the Love Is Love dance on Valentine's Day, disturbing phone calls keep Clay from getting in the spirit.",
+    "cast": [
+      "Dylan Minnette",
+      "Katherine Langford",
+      "Alisha Boe"
+    ],
+    "genres": [
+      "Crime TV Dramas",
+      "TV Dramas Based on Books"
+    ]
+  }
+]
